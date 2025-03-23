@@ -1,21 +1,63 @@
-# 👋 About Me  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SakshamSingla-India/SakshamSingla-India/main/assets/header.gif" alt="Header" width="100%"/>
+  
+  # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Saksham
+  
+  <p align="center">
+    <em>Android Developer | Open Source Enthusiast | ROM Developer</em>
+  </p>
+</div>
 
-Hey, I'm Saksham! I'm an Android Developer passionate about crafting innovative apps and exploring the Android ecosystem. I specialize in:  
+## 💫 About Me
 
-- [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/) Kotlin & [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) Java for Android development  
+Passionate Android Developer crafting innovative apps and exploring the Android ecosystem. I love diving deep into system internals and creating solutions that push the boundaries of mobile technology.
 
-- [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/) Node.js, 
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) Python, 
-  [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) C# and 
-  [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) C++ for backend and cross-platform projects
+## 🛠️ Technology Stack
 
-I'm also active in Android rooting and modding, sharing insights via my Telegram channel, [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RootedChat) @RootedChat.
+<div align="center">
+  
+  [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
+  [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+  
+  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+  
+  [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
+  [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
+  
+</div>
 
-### 🔧 What I Love
-- Building apps
-- Tinkering with custom ROMs
-- Contributing to open-source projects
+## 🌟 What I Love
 
-### 📫 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshamSingla-India)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sakshamaggarwal)
+- 📱 Building innovative Android applications
+- 🛠️ Custom ROM development and system modifications
+- 🤝 Contributing to open-source projects
+- 🔧 Android system internals and optimization
+- 📚 Sharing knowledge with the developer community
+
+## 🚀 Projects & Contributions
+
+<div align="center">
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshamSingla-India&show_icons=true&theme=dracula&hide_border=true)](https://github.com/SakshamSingla-India)
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamSingla-India&layout=compact&theme=dracula&hide_border=true)](https://github.com/SakshamSingla-India)
+  
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-SakshamSingla--India-2D333B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshamSingla-India)
+  [![Telegram](https://img.shields.io/badge/Telegram-@sakshamaggarwal-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sakshamaggarwal)
+  [![Channel](https://img.shields.io/badge/Channel-@RootedChat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RootedChat)
+  
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by Saksham Aggarwal</sub>
+</div>
