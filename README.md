@@ -40,9 +40,9 @@ Passionate Android Developer crafting innovative apps and exploring the Android 
 
 <div align="center">
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshamSingla-India&show_icons=true&theme=dracula&hide_border=true)](https://github.com/SakshamSingla-India)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshamSingla-India&show_icons=true&theme=dracula&hide_border=true)](https://github.com/TheSakshamSingla)
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamSingla-India&layout=compact&theme=dracula&hide_border=true)](https://github.com/SakshamSingla-India)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamSingla-India&layout=compact&theme=dracula&hide_border=true)](https://github.com/TheSakshamSingla)
   
 </div>
 
@@ -50,7 +50,7 @@ Passionate Android Developer crafting innovative apps and exploring the Android 
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-SakshamSingla--India-2D333B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshamSingla-India)
+  [![GitHub](https://img.shields.io/badge/GitHub-SakshamSingla--India-2D333B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheSakshamSingla)
   [![Telegram](https://img.shields.io/badge/Telegram-@sakshamaggarwal-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sakshamaggarwal)
   [![Channel](https://img.shields.io/badge/Channel-@RootedChat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RootedChat)
   
