@@ -52,7 +52,7 @@ Passionate Android Developer crafting innovative apps and exploring the Android 
   
   [![GitHub](https://img.shields.io/badge/GitHub-TheSakshamSingla-2D333B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheSakshamSingla)
   [![Telegram](https://img.shields.io/badge/Telegram-@sakshamaggarwal-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sakshamaggarwal)
-  [![Channel](https://img.shields.io/badge/Channel-@RootedChat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RootedChat)
+  [![Channel](https://img.shields.io/badge/Channel-@RootedChat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RootThings)
   
 </div>
 
