@@ -40,7 +40,7 @@ Passionate Android Developer crafting innovative apps and exploring the Android 
 
 <div align="center">
   
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheSakshamSingla&show_icons=true&theme=dracula&hide_border=true)](https://github.com/TheSakshamSingla)
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TypeFlu&show_icons=true&theme=dracula&hide_border=true)](https://github.com/TypeFlu)
   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TypeFlu&layout=compact&theme=dracula&hide_border=true)](https://github.com/TypeFlu)
   
@@ -50,14 +50,8 @@ Passionate Android Developer crafting innovative apps and exploring the Android 
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-TheSakshamSingla-2D333B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheSakshamSingla)
-  [![Telegram](https://img.shields.io/badge/Telegram-@sakshamaggarwal-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sakshamaggarwal)
+  [![GitHub](https://img.shields.io/badge/GitHub-TypeFlu-2D333B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheSakshamSingla)
+  [![Telegram](https://img.shields.io/badge/Telegram-@TypeFlu-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sakshamaggarwal)
   [![Channel](https://img.shields.io/badge/Channel-@RootThings-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RootThings)
   
-</div>
-
----
-
-<div align="center">
-  <sub>Built with ❤️ by Saksham Aggarwal</sub>
 </div>
