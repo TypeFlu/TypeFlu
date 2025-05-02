@@ -42,7 +42,7 @@ Passionate Android Developer crafting innovative apps and exploring the Android 
   
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheSakshamSingla&show_icons=true&theme=dracula&hide_border=true)](https://github.com/TheSakshamSingla)
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSakshamSingla&layout=compact&theme=dracula&hide_border=true)](https://github.com/TheSakshamSingla)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TypeFlu&layout=compact&theme=dracula&hide_border=true)](https://github.com/TypeFlu)
   
 </div>
 
