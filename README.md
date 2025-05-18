@@ -51,7 +51,7 @@ Passionate Android Developer crafting innovative apps and exploring the Android 
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/GitHub-TypeFlu-2D333B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheSakshamSingla)
-  [![Telegram](https://img.shields.io/badge/Telegram-@TypeFlu-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sakshamaggarwal)
+  [![Telegram](https://img.shields.io/badge/Telegram-@TypeFlu-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/typeflu)
   [![Channel](https://img.shields.io/badge/Channel-@RootThings-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RootThings)
   
 </div>
