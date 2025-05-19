@@ -1,79 +1,118 @@
-<div align="center">
-  <h1>🌊 TypeFlu 💻</h1>
-  <p><i>Diving Deep into Code & Emerging with Innovative Solutions</i></p>
-</div>
+<div align="center" style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; color: #333;">
 
----
+  <img src="https://avatars.githubusercontent.com/u/TypeFlu?v=4" width="170" height="170" alt="TypeFlu - GitHub Profile Picture" style="border-radius: 50%; margin-top: 25px; margin-bottom: 20px; border: 4px solid #007ACC; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);">
 
-👋 Hey there! I'm <strong>TypeFlu</strong>, a passionate and curious Tech Enthusiast constantly exploring the ever-evolving world of technology. I thrive on turning complex problems into elegant and efficient software solutions. My journey in tech is fueled by a deep love for learning, a knack for problem-solving, and the thrill of building things that make a difference.
-
-🚀 I'm deeply immersed in the open-source philosophy, believing in the power of collaboration to drive innovation. You'll often find me contributing to projects, sharing knowledge, and learning from the global developer community. My current fascination lies in crafting seamless and engaging experiences for **Android applications**, pushing the boundaries of what mobile can do.
-
-💡 I'm not just about writing code; I'm about understanding the 'why' behind it. From architecting robust back-end systems to designing intuitive user interfaces, I embrace the full spectrum of software development.
-
----
-
-<div align="center">
-  <h3>My Tech Stack & Tools 🛠️</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>&nbsp;
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>&nbsp;
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>&nbsp;
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>&nbsp;
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>&nbsp;
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>&nbsp;
-    </p>
-</div>
-
----
-
-<div align="center">
-  <h3>My GitHub Stats 📊</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=TypeFlu&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="TypeFlu's GitHub Stats" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TypeFlu&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-    <br/>
-    </p>
-  <p>
-    <em>Note: Top languages are a dynamic reflection of my recent repository activity.</em>
+  <h1 style="font-size: 2.8em; font-weight: 600; color: #007ACC; margin-bottom: 8px; letter-spacing: 0.5px;">
+    TYPEFLU
+  </h1>
+  <p style="font-size: 1.3em; color: #555; margin-bottom: 30px; font-weight: 300;">
+    Tech Enthusiast & Open Source Contributor
   </p>
 </div>
 
----
+<hr style="border: 0; height: 1px; background: #ddd; margin: 40px auto; width: 85%;">
 
-<h3>🌱 What I'm Up To:</h3>
+<div style="max-width: 850px; margin: auto; padding: 0 20px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; color: #333; line-height: 1.75;">
 
-* 🚀 Actively contributing to various **open-source projects**.
-* 📱 Exploring the latest advancements in **Android application development** and architecture.
-* 💻 Diving deeper into **Go** for scalable back-end services and **Kotlin** for modern Android apps.
-* 🌐 Experimenting with **Next.js** and **Tailwind CSS** for slick, performant web experiences.
-* 📚 Always learning new technologies and best practices.
+  <h2 style="color: #007ACC; font-size: 1.9em; font-weight: 500; border-bottom: 2px solid #007ACC; padding-bottom: 10px; margin-top: 40px; margin-bottom: 25px;">
+    About Me
+  </h2>
+  <p style="font-size: 1.05em; color: #444;">
+    Hello! I'm <strong>TypeFlu</strong>, a developer driven by a deep curiosity for technology and a passion for crafting elegant, efficient software. I thrive on exploring new advancements, solving complex challenges, and building applications that make a tangible impact. My primary interests lie in <strong>Android application development</strong> and contributing to the vibrant <strong>open-source ecosystem</strong>. I believe in the power of collaborative innovation and am always eager to learn and share knowledge within the developer community.
+  </p>
 
-<h3>🤝 Let's Connect & Collaborate:</h3>
+  <h2 style="color: #007ACC; font-size: 1.9em; font-weight: 500; border-bottom: 2px solid #007ACC; padding-bottom: 10px; margin-top: 50px; margin-bottom: 30px;">
+    My Core Technologies
+  </h2>
+  <div align="center" style="margin-bottom: 30px;">
+    <table style="border-collapse: collapse; width: auto; margin: auto;">
+      <tr>
+        <td style="padding: 10px 15px; text-align: center;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Golang" width="65" height="65"/>
+          <p style="font-size: 0.85em; margin-top: 5px; color: #555;">Go</p>
+        </td>
+        <td style="padding: 10px 15px; text-align: center;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="60" height="60"/>
+          <p style="font-size: 0.85em; margin-top: 5px; color: #555;">Kotlin</p>
+        </td>
+        <td style="padding: 10px 15px; text-align: center;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+          <p style="font-size: 0.85em; margin-top: 5px; color: #555;">Python</p>
+        </td>
+        <td style="padding: 10px 15px; text-align: center;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+          <p style="font-size: 0.85em; margin-top: 5px; color: #555;">Java</p>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px 15px; text-align: center;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="90" height="60"/>
+          <p style="font-size: 0.85em; margin-top: 5px; color: #555;">Node.js</p>
+        </td>
+        <td style="padding: 10px 15px; text-align: center;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+          <p style="font-size: 0.85em; margin-top: 5px; color: #555;">TypeScript</p>
+        </td>
+        <td style="padding: 10px 15px; text-align: center;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+          <p style="font-size: 0.85em; margin-top: 5px; color: #555;">JavaScript</p>
+        </td>
+        <td style="padding: 10px 15px; text-align: center;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="90" height="60" style="filter: invert(1);"/> <p style="font-size: 0.85em; margin-top: 5px; color: #555;">Next.js</p>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="4" style="padding: 10px 15px; text-align: center;">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="60" height="60"/>
+          <p style="font-size: 0.85em; margin-top: 5px; color: #555;">Tailwind CSS</p>
+        </td>
+      </tr>
+    </table>
+  </div>
 
-<p align="center">
-  <a href="https://github.com/TypeFlu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>&nbsp;
-  <a href="https://t.me/TypeFlu" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>&nbsp;
-  <a href="mailto:Typeflu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>&nbsp;
-</p>
+  <h2 style="color: #007ACC; font-size: 1.9em; font-weight: 500; border-bottom: 2px solid #007ACC; padding-bottom: 10px; margin-top: 50px; margin-bottom: 30px;">
+    GitHub Insights
+  </h2>
 
-<p align="center">
-  Whether you have a project in mind, a challenging problem to solve, or just want to talk tech, feel free to reach out! I'm always open to new opportunities and collaborations.
-</p>
+![TypeFlu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TypeFlu&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=vision-friendly-dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 
----
+![TypeFlu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TypeFlu&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 
-<div align="center">
-  <p><em>"The best way to predict the future is to create it." - Peter Drucker (and Alan Kay)</em></p>
-  <img src="https://komarev.com/ghpvc/?username=TypeFlu&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+  <p align="center" style="font-size: 0.9em; color: #666; margin-top: 10px; margin-bottom: 40px;">
+    <i>Dynamic statistics reflecting my coding activity and language preferences.</i>
+    <br/>
+    <i>If stats appear broken, the external service might be temporarily unavailable.</i>
+  </p>
+
+  <h2 style="color: #007ACC; font-size: 1.9em; font-weight: 500; border-bottom: 2px solid #007ACC; padding-bottom: 10px; margin-top: 50px; margin-bottom: 25px;">
+    Current Endeavors
+  </h2>
+  <ul style="font-size: 1.05em; color: #444; list-style-type: '› '; padding-left: 25px;">
+    <li style="margin-bottom: 10px;">Actively contributing to open-source projects focusing on utility and developer tools.</li>
+    <li style="margin-bottom: 10px;">Developing and refining Android applications with Kotlin and modern architectural patterns.</li>
+    <li style="margin-bottom: 10px;">Expanding my knowledge in scalable Go-based microservices.</li>
+    <li>Exploring advanced features in Next.js for performant web solutions.</li>
+  </ul>
+
+  <h2 style="color: #007ACC; font-size: 1.9em; font-weight: 500; border-bottom: 2px solid #007ACC; padding-bottom: 10px; margin-top: 50px; margin-bottom: 25px;">
+    Let's Collaborate
+  </h2>
+  <div align="center" style="font-size: 1.1em; margin-bottom: 40px;">
+    <p style="color: #444; margin-bottom: 20px;">
+      Open to new opportunities and interesting projects. Feel free to connect!
+    </p>
+    <p>
+      <a href="https://github.com/TypeFlu" style="text-decoration: none; color: #007ACC; font-weight: 500; margin: 0 12px;">GitHub</a> •
+      <a href="https://t.me/TypeFlu" style="text-decoration: none; color: #007ACC; font-weight: 500; margin: 0 12px;">Telegram</a> •
+      <a href="mailto:Typeflu@gmail.com" style="text-decoration: none; color: #007ACC; font-weight: 500; margin: 0 12px;">Email</a>
+    </p>
+  </div>
+
+</div>
+
+<hr style="border: 0; height: 1px; background: #ddd; margin: 40px auto; width: 85%;">
+
+<div align="center" style="font-family: 'Segoe UI', Helvetica, Arial, sans-serif; color: #777; font-size: 0.9em; margin-bottom: 30px;">
+  <p style="margin-bottom: 5px;">Profile views: <img src="https://komarev.com/ghpvc/?username=TypeFlu&label=&color=007ACC&style=flat&logoColor=white&bg_color=fafafa" alt="Profile views" style="vertical-align: middle; height: 20px;"/></p>
+  <p>&copy; 2025 TypeFlu. All rights reserved.</p>
 </div>
