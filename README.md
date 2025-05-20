@@ -74,7 +74,17 @@
     GitHub Insights
   </h2>
 
-![Saksham Singla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TypeFlu&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=vision-friendly-dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=TypeFlu&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=TypeFlu&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TypeFlu&show_icons=true" />
+</picture>
 
 ![TypeFlu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TypeFlu&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 
