@@ -18,7 +18,7 @@
     About Me
   </h2>
   <p style="font-size: 1.05em; color: #444;">
-    Hello! I'm <strong>TypeFlu</strong>, a developer driven by a deep curiosity for technology and a passion for crafting elegant, efficient software. I thrive on exploring new advancements, solving complex challenges, and building applications that make a tangible impact. My primary interests lie in <strong>Android application development</strong> and contributing to the vibrant <strong>open-source ecosystem</strong>. I believe in the power of collaborative innovation and am always eager to learn and share knowledge within the developer community.
+    Hello! I'm <strong>Saksham Singla</strong>, a developer driven by a deep curiosity for technology and a passion for crafting elegant, efficient software. I thrive on exploring new advancements, solving complex challenges, and building applications that make a tangible impact. My primary interests lie in <strong>Android application development</strong> and contributing to the vibrant <strong>open-source ecosystem</strong>. I believe in the power of collaborative innovation and am always eager to learn and share knowledge within the developer community.
   </p>
 
   <h2 style="color: #007ACC; font-size: 1.9em; font-weight: 500; border-bottom: 2px solid #007ACC; padding-bottom: 10px; margin-top: 50px; margin-bottom: 30px;">
