@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/198061763?v=4" width="170" height="170" alt="TypeFlu - GitHub Profile Picture" style="border-radius: 50%; margin-top: 25px; margin-bottom: 20px; border: 4px solid #007ACC; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);">
 
   <h1 style="font-size: 2.8em; font-weight: 600; color: #007ACC; margin-bottom: 8px; letter-spacing: 0.5px;">
-    TYPEFLU
+    Saksham Singla
   </h1>
   <p style="font-size: 1.3em; color: #555; margin-bottom: 30px; font-weight: 300;">
     Tech Enthusiast & Open Source Contributor
