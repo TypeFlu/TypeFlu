@@ -86,7 +86,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TypeFlu&show_icons=true" />
 </picture>
 
-![TypeFlu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TypeFlu&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+![Saksham Singla's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TypeFlu&hide_progress=true)
 
   <p align="center" style="font-size: 0.9em; color: #666; margin-top: 10px; margin-bottom: 40px;">
     <i>Dynamic statistics reflecting my coding activity and language preferences.</i>
