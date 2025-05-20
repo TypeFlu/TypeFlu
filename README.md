@@ -3,7 +3,7 @@
   <img src="https://avatars.githubusercontent.com/u/198061763?v=4" width="170" height="170" alt="TypeFlu - GitHub Profile Picture" style="border-radius: 50%; margin-top: 25px; margin-bottom: 20px; border: 4px solid #007ACC; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);">
 
   <h1 style="font-size: 2.8em; font-weight: 600; color: #007ACC; margin-bottom: 8px; letter-spacing: 0.5px;">
-    TYPEFLU
+    Saksham Singla
   </h1>
   <p style="font-size: 1.3em; color: #555; margin-bottom: 30px; font-weight: 300;">
     Tech Enthusiast & Open Source Contributor
@@ -18,7 +18,7 @@
     About Me
   </h2>
   <p style="font-size: 1.05em; color: #444;">
-    Hello! I'm <strong>TypeFlu</strong>, a developer driven by a deep curiosity for technology and a passion for crafting elegant, efficient software. I thrive on exploring new advancements, solving complex challenges, and building applications that make a tangible impact. My primary interests lie in <strong>Android application development</strong> and contributing to the vibrant <strong>open-source ecosystem</strong>. I believe in the power of collaborative innovation and am always eager to learn and share knowledge within the developer community.
+    Hello! I'm <strong>Saksham Singla</strong>, a developer driven by a deep curiosity for technology and a passion for crafting elegant, efficient software. I thrive on exploring new advancements, solving complex challenges, and building applications that make a tangible impact. My primary interests lie in <strong>Android application development</strong> and contributing to the vibrant <strong>open-source ecosystem</strong>. I believe in the power of collaborative innovation and am always eager to learn and share knowledge within the developer community.
   </p>
 
   <h2 style="color: #007ACC; font-size: 1.9em; font-weight: 500; border-bottom: 2px solid #007ACC; padding-bottom: 10px; margin-top: 50px; margin-bottom: 30px;">
