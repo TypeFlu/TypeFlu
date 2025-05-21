@@ -76,14 +76,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TypeFlu&show_icons=true&theme=dark"
+    srcset="https://github-profile-cards-2ot4.vercel.app/api?username=typeflu&include_all_commits=true&rank_icon=percentile&border_color=2e4058&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=TypeFlu&show_icons=true"
+    srcset="https://github-profile-cards-2ot4.vercel.app/api?username=typeflu&include_all_commits=true&rank_icon=percentile&border_color=2e4058"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=TypeFlu&show_icons=true" />
+  <img src="https://github-profile-cards-2ot4.vercel.app/api?username=typeflu&include_all_commits=true&rank_icon=percentile&border_color=2e4058" />
 </picture>
 
 ![Saksham Singla's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TypeFlu&hide_progress=true)
