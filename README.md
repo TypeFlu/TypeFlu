@@ -80,7 +80,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-cards-2ot4.vercel.app/api?username=typeflu&include_all_commits=true&rank_icon=percentile&border_color=2e4058"
+    srcset="https://github-readme-stats.vercel.app/api?username=typeflu&include_all_commits=true&rank_icon=percentile&border_color=2e4058"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-profile-cards-2ot4.vercel.app/api?username=typeflu&include_all_commits=true&rank_icon=percentile&border_color=2e4058" />
