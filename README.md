@@ -76,14 +76,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=typeflu&include_all_commits=true&rank_icon=percentile&border_color=2e4058&theme=dark"
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Typeflu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=typeflu&include_all_commits=true&rank_icon=percentile&border_color=2e4058"
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Typeflu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-profile-cards-2ot4.vercel.app/api?username=typeflu&include_all_commits=true&rank_icon=percentile&border_color=2e4058" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Typeflu&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </picture>
 
 ![Saksham Singla's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TypeFlu&hide_progress=true)
