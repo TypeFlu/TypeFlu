@@ -1,6 +1,6 @@
 ### GitHub Stats
 
-[![TypeFlu's GitHub Stats](https://readmestats-peach.vercel.app/api?username=TypeFlu&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/TypeFlu)
+[![TypeFlu's GitHub Stats](https://readmestats-peach.vercel.app/api?username=TypeFlu&show_icons=true&theme=radical)](https://github.com/TypeFlu)
 
 ### Top Languages
 
