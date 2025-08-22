@@ -1,25 +1,5 @@
 <div align="center">
-  
-  <!-- Custom-Made Animated SVG Header -->
-  <img src="https://raw.githubusercontent.com/TypeFlu/TypeFlu/main/assets/header.svg" alt="Header Banner" width="800"/>
-
-  <!-- Social & Contact Links using Custom Icons -->
-  <p align="center">
-    <a href="https://typeflu.me" target="_blank"><img src="https://raw.githubusercontent.com/TypeFlu/TypeFlu/main/assets/icon-website.svg" alt="Website" height="40"/></a>
-    &nbsp;
-    <a href="https://twitter.com/typeflu" target="_blank"><img src="https://raw.githubusercontent.com/TypeFlu/TypeFlu/main/assets/icon-twitter.svg" alt="Twitter" height="40"/></a>
-    &nbsp;
-    <a href="mailto:typeflu@gmail.com"><img src="https://raw.githubusercontent.com/TypeFlu/TypeFlu/main/assets/icon-mail.svg" alt="Email" height="40"/></a>
-    &nbsp;
-    <a href="https://t.me/typeflu" target="_blank"><img src="https://raw.githubusercontent.com/TypeFlu/TypeFlu/main/assets/icon-telegram.svg" alt="Telegram" height="40"/></a>
-  </p>
-
-</div>
-
-<!-- SVG Divider -->
-<img src="https://raw.githubusercontent.com/TypeFlu/TypeFlu/main/assets/divider.svg" alt="Divider">
-
-<h2 align="center">🚀 My Tech Arsenal</h2>
+<h1 align="center">My Tech Arsenal</h2>
 
 <table width="100%" align="center">
 <tr valign="top">
@@ -32,18 +12,18 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original-wordmark.svg" alt="Astro" width="45" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="45" height="45"/>
   </p>
 </td>
 <td width="50%" align="center">
   <h3 align="center">Tools & Databases</h3>
   <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="45" height="45"/>
-    <img src="httpshttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/Type-Flu/TypeFlu/main/assets/neon.svg" alt="Neon" width="45" height="45"/>
-    <img src="https://raw.githubusercontent.com/Type-Flu/TypeFlu/main/assets/turborepo.svg" alt="Turborepo" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/TypeFlu/TypeFlu/refs/heads/main/assists/neon.svg" alt="Neon" width="45" height="45"/>
+    <img src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png" alt="Turborepo" width="45" height="45"/>
   </p>
 </td>
 </tr>
