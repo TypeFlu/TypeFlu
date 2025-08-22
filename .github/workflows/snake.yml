@@ -1,18 +1,22 @@
-name: Generate Contribution Snake & Update Timestamp
+name: Update Profile
 
 on:
   schedule:
-    # Runs every 12 hours
     - cron: '0 */12 * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v5
+    permissions:
+      contents: write 
 
-      - uses: Platane/snk/svg-only@v3
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Contribution Snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -20,13 +24,20 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Update Timestamp
         run: |
           sed -i 's|<!--LAST_UPDATED-->|'"`date -u +'%B %d, %Y %H:%M:%S UTC'`"'|g' README.md
-      
-      - uses: crazy-max/ghaction-github-pages@v4.2.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/ README.md
+          # Check if there are changes to commit
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update profile content"
+            git push
+          else
+            echo "No changes to commit."
+          fi
