@@ -55,3 +55,6 @@
 <p align="center">
   <img src="dist/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
 </p>
+<picture>
+  <img src="https://count.getloli.com/@TypeFlu&theme=rule34&darkmode=0" />
+</picture>
