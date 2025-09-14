@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">My Tech Arsenal</h2>
+<h2 align="center">My Tech Arsenal</h2>
 
 <table width="100%" align="center">
 <tr valign="top">
