@@ -14,6 +14,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original-wordmark.svg" alt="Astro" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/isocpp/logos/refs/heads/master/cpp_logo.svg" alt="C++" width="45" height="45"/>
   </p>
 </td>
 <td width="50%" align="center">
